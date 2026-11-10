@@ -1,0 +1,28 @@
+EMPERO RZ FAMILY RESTAURANT - IMAGE FOLDER GUIDE
+
+Create this folder beside index.html, style.css and script.js:
+
+images/
+├── logo.png
+├── logo.png
+├── about-interior.jpg
+├── popular/
+│   ├── chicken-hyderabadi-biryani.jpg
+│   ├── chicken-tikka-kebab.jpg
+│   ├── chicken-afghani-kebab.jpg
+│   ├── butter-chicken.jpg
+│   ├── chicken-hot-n-crispy.jpg
+│   ├── chicken-fire-wings.jpg
+│   ├── chicken-chilli.jpg
+│   ├── french-fries.jpg
+│   ├── chicken-65.jpg
+│   └── chicken-popcorn.jpg
+└── gallery/
+    ├── interior-1.jpg
+    ├── interior-2.jpg
+    └── interior-3.jpg
+
+Use your own restaurant and food photographs with these exact filenames.
+hero.png is used behind the main title.
+about-interior.jpg is used behind the bottom "Your Next Favourite Meal Is Waiting" section.
+The ten images in popular/ appear in the Top 10 Dishes section.
